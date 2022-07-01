@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portoflio/static/css/main.ed166235.css",
+    "main.js": "/Portoflio/static/js/main.857bc443.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portoflio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portoflio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/unisite.png": "/Portoflio/static/media/unisite.a10efedc133ae9cf2a70.png",
+    "static/media/yousum.png": "/Portoflio/static/media/yousum.305e1641eb668bec754a.png",
+    "static/media/placement.png": "/Portoflio/static/media/placement.cad51a736a534e1cf8f9.png",
+    "static/media/SomanYadav.pdf": "/Portoflio/static/media/SomanYadav.9056413715452d74d79b.pdf",
+    "static/media/leaf.png": "/Portoflio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/about.png": "/Portoflio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/b.png": "/Portoflio/static/media/b.4b123c15592020bcacee.png",
+    "static/media/a.png": "/Portoflio/static/media/a.81926ac6787e34fe76da.png",
+    "static/media/suicide.png": "/Portoflio/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/home-bg.jpg": "/Portoflio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/Portoflio/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/pre.svg": "/Portoflio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portoflio/index.html",
+    "main.ed166235.css.map": "/Portoflio/static/css/main.ed166235.css.map",
+    "main.857bc443.js.map": "/Portoflio/static/js/main.857bc443.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portoflio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portoflio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed166235.css",
+    "static/js/main.857bc443.js"
+  ]
+}
